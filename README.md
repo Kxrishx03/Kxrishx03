@@ -12,7 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kxrishx03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 Participations
+## 🏆 Badges
 [![An image of @kxrishx03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kxrishx03)](https://holopin.io/@kxrishx03)
 
 ### ✍️ Random Dev Quote
