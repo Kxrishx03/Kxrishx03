@@ -15,8 +15,6 @@
 ## 🏆 Badges
 [![An image of @kxrishx03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kxrishx03)](https://holopin.io/@kxrishx03)
 
-[![An image of @kxrishx03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kxrishx03)](https://holopin.io/@kxrishx03)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
